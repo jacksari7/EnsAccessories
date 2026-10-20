@@ -1,0 +1,6 @@
+[
+ {"id":"ens-101","name":"İnci Detaylı Kolye","category":"Kolye","price":349,"stock":12,"image":"","description":"Zarif inci detaylı günlük kolye."},
+ {"id":"ens-102","name":"Altın Tonlu Halka Küpe","category":"Küpe","price":229,"stock":8,"image":"","description":"Minimal ve şık halka küpe."},
+ {"id":"ens-103","name":"Yeşil Taşlı Bileklik","category":"Bileklik","price":289,"stock":6,"image":"","description":"Doğal yeşil tonlarından ilham alan bileklik."},
+ {"id":"ens-104","name":"Çiçek Motifli Toka","category":"Saç Aksesuarı","price":149,"stock":15,"image":"","description":"Günlük kombinlere romantik dokunuş."}
+]
